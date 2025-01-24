@@ -1,2 +1,4 @@
 # OVJ-Apps
-Sistem Rekomendasi Pariwisata Berdasarkan Preferensi Pengguna
+Sistem Rekomendasi Pariwisata Berdasarkan Preferensi Pengguna 
+Silahkan Klik link dibawah ini
+https://github.com/PS419-OVJ/OVJ-apps
